@@ -68,9 +68,8 @@ The project walkthrough demonstrates:
 
 **Demo video:**
 
-[Watch the Nebula Mail Demo](./media/demo/nebula-mail-demo.mp4)
-
-> If the video exceeds GitHub's regular file-size limit, host it externally or use Git LFS.
+[[Watch the Nebula Mail Demo](./media/demo/nebula-mail-demo.mp4)
+](https://youtu.be/g6SDPQyWpn0)
 
 ---
 
